@@ -1,4 +1,4 @@
-baseURL = 'https://carrierwave.app/manual/'
+baseURL = 'https://carrierwave.qrp.lol/'
 languageCode = 'en-us'
 title = 'Carrier Wave Manual'
 theme = 'carrier-wave'
